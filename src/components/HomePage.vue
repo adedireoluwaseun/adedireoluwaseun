@@ -648,6 +648,7 @@ export default {
 	min-height: 40px;
 }
 
+
 .card-provider .c-image{
 	display: inline-block;
 	vertical-align: middle;
@@ -723,7 +724,7 @@ export default {
 }
 .text-payment {
     font-family: 'poppins';
-    font-size: 10px;
+    font-size: 20px;
     font-weight: bold;
     margin-top: 18px;
 }
@@ -742,7 +743,7 @@ export default {
         font-size : 10px !important;
     }
    .text-payment{
-    font-size:10px;
+    font-size:20px;
  }
 }
 </style>
